@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img src="https://c.tenor.com/EzRdOxat0fIAAAAC/cat-typing.gif" alt="Cat Typing" width="300">
+  <img src="./assets/eve2.jpeg" width="100%" height="auto">
 </div>
 
 ---
