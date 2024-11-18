@@ -7,14 +7,6 @@
 
 ---
 
-<div align="center">
- <a href="https://github.com/BrayanMontenegro/BrayanMontenegro.git">
-  <img src="./assets/eve2.jpg" width="auto" height="auto">
-</a>
-</div>
-
----
-
 ## 🌟 Sobre mí
 
 - 🌐 **Nombre real:** Bryan Montenegro.
@@ -36,6 +28,14 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+</div>
+
+---
+
+<div align="center">
+ <a href="https://github.com/BrayanMontenegro/BrayanMontenegro.git">
+  <img src="./assets/eve2.jpg" width="auto" height="auto">
+</a>
 </div>
 
 ---
@@ -65,7 +65,7 @@
 
 <div align="center">
   <a href="montenegrobrayan45@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-montenegrobrayan45@gmail.com@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-montenegrobrayan45@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </div>
 
