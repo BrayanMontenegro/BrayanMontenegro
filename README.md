@@ -1,3 +1,6 @@
+ <a href="https://github.com/BrayanMontenegro/BrayanMontenegro.git">
+  <img src="./assets/eve.jpg" width="100%" height="auto">
+</a>
 
 <h1 align="center">✨ ¡Hola, soy Oreki Houtarou! ✨</h1>
 <h3 align="center">🌌 Desarrollador apasionado | Fan del anime y el código 🍜</h3>
