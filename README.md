@@ -1,5 +1,5 @@
  <a href="https://github.com/BrayanMontenegro/BrayanMontenegro.git">
-  <img src="./assets/evew.jpg" width="100%" height="auto">
+  <img src="./assets/evew.jpeg" width="100%" height="auto">
 </a>
 
 <h1 align="center">✨ ¡Hola, soy Oreki Houtarou! ✨</h1>
