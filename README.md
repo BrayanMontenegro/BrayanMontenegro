@@ -32,10 +32,9 @@
 
 ## 📂 Proyectos Destacados
 
-- 🛍️ **Mandaditos Kiki**: App para gestionar pedidos con un diseño inspirado en Kiki's Delivery Service.
-- 🐄 **Trazabilidad Ganadera**: Registro y seguimiento de animales con Firebase.
-- 🌟 **Proyecto Redvita**: Sistema para la gestión y visualización de estadísticas relacionadas con proyectos de salud pública. [Ir al repo](https://github.com/aminmarin/proyecto-redvita)
-- 📊 **Control de Asistencia**: Gestión de personal con estadísticas en tiempo real.
+- 🐄 **Trazabilidad Ganadera**: Proyecto que lleve a Hackaton Nicaragua por primera vez.
+- 🩸 **Proyecto Redvita**: Sistema para la gestión y visualización de estadísticas relacionadas con proyectos de salud pública. [Ir al repo](https://github.com/aminmarin/proyecto-redvita)
+- 📊 **Protectos personales**: Gestión de cosas que uso en general para aprender.
 
 ---
 
@@ -58,8 +57,8 @@
   <a href="https://www.linkedin.com/in/brayan-montenegro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Bryan_Montenegro-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:brayan.montenegro@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-brayan.montenegro@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
+  <a href="montenegrobrayan45@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-montenegrobrayan45@gmail.com@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </div>
 
