@@ -8,7 +8,6 @@
 ---
 
 ## 🌟 Sobre mí
-
 - 🌐 **Nombre real:** Bryan Montenegro.
 - 🎓 **Idiomas de programación:** Java, HTML, JavaScript, React, React Native.
 - 🚀 **Stack:** Firebase, React Native con Expo, MySQL y SQL Server.
@@ -17,7 +16,6 @@
 ---
 
 ## 🛠️ Tecnologías que manejo
-
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -41,7 +39,6 @@
 ---
 
 ## 📂 Proyectos Destacados
-
 - 🐄 **Trazabilidad Ganadera**: Proyecto que lleve a Hackaton Nicaragua por primera vez.
 - 🩸 **Proyecto Redvita**: Sistema para la gestión de donantes y visualización de estadísticas relacionadas la donaciones. [Ir al repo](https://github.com/BrayanMontenegro/ProyectRedvita.git)
 - 📊 **Protectos personales**: Gestión de cosas que uso en general para aprender.
@@ -49,18 +46,15 @@
 ---
 
 ## 🎨 Inspiración y estilo
-
 - 💡 **Diseño Minimalista:** Influenciado por animes como Hyouka, Studio Ghibli, Jujutsu Kaisen, entre otros.
 - 🎮 **Hobbies:** Desarrollo de proyectos personales y diseño de interfaces inspiradas en el anime.
 
 ---
-
 <div align="center">
   <img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="Cat Coding" width="200">
 </div>
 
 ---
-
 ## 🌐 Conecta conmigo
 
 <div align="center">
@@ -70,7 +64,6 @@
 </div>
 
 ---
-
 <div align="center">
   <h3>✨ ¡Gracias por visitar mi perfil! ✨</h3>
   <img src="https://c.tenor.com/U0lrdg9vJ7gAAAAC/cute-cat.gif" alt="Cute Cat" width="150">
