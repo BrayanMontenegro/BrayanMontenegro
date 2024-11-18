@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
 </div>
@@ -37,14 +38,14 @@
 ## 📂 Proyectos Destacados
 
 - 🐄 **Trazabilidad Ganadera**: Proyecto que lleve a Hackaton Nicaragua por primera vez.
-- 🩸 **Proyecto Redvita**: Sistema para la gestión y visualización de estadísticas relacionadas con proyectos de salud pública. [Ir al repo](https://github.com/aminmarin/proyecto-redvita)
+- 🩸 **Proyecto Redvita**: Sistema para la gestión y visualización de estadísticas relacionadas con proyectos de salud pública. [Ir al repo](https://github.com/BrayanMontenegro/ProyectRedvita.git)
 - 📊 **Protectos personales**: Gestión de cosas que uso en general para aprender.
 
 ---
 
 ## 🎨 Inspiración y estilo
 
-- 💡 **Diseño Minimalista:** Influenciado por animes como Hyouka y Studio Ghibli.
+- 💡 **Diseño Minimalista:** Influenciado por animes como Hyouka Studio Ghibli Jujutsu Kaisen entre otros.
 - 🎮 **Hobbies:** Desarrollo de proyectos personales y diseño de interfaces inspiradas en el anime.
 
 ---
