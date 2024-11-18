@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">✨ ¡Hola, soy Oreki Houtarou! ✨</h1>
-<h3 align="center">🌌 Desarrollador apasionado | Fan del anime y el código 🍜</h3>
+<h3 align="center">🌌 Desarrollador | Fan del anime y el código 🍜</h3>
 
 ---
 
@@ -16,7 +16,7 @@
 ## 🌟 Sobre mí
 
 - 🌐 **Nombre real:** Bryan Montenegro.
-- 🎓 **Idiomas de programación:** Java, HTML, JavaScript, React.
+- 🎓 **Idiomas de programación:** Java, HTML, JavaScript, React, React Native.
 - 🚀 **Stack:** Firebase, React Native con Expo, MySQL y SQL Server.
 - 📖 **Curiosidad:** Me encanta el diseño inspirado en animes, en especial los toques minimalistas.
 
@@ -45,7 +45,7 @@
 
 ## 🎨 Inspiración y estilo
 
-- 💡 **Diseño Minimalista:** Influenciado por animes como Hyouka Studio Ghibli Jujutsu Kaisen entre otros.
+- 💡 **Diseño Minimalista:** Influenciado por animes como Hyouka, Studio Ghibli, Jujutsu Kaisen, entre otros.
 - 🎮 **Hobbies:** Desarrollo de proyectos personales y diseño de interfaces inspiradas en el anime.
 
 ---
@@ -59,9 +59,6 @@
 ## 🌐 Conecta conmigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/brayan-montenegro/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bryan_Montenegro-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
   <a href="montenegrobrayan45@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-montenegrobrayan45@gmail.com@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
