@@ -12,8 +12,8 @@
 ## 🌟 Sobre mí
 
 - 🌐 **Nombre real:** Bryan Montenegro.
-- 🎓 **Idiomas de programación:** Java, HTML, JavaScript, React Native.
-- 🚀 **Stack:** Firebase, React Native con Expo, y desarrollo web.
+- 🎓 **Idiomas de programación:** Java, HTML, JavaScript, React.
+- 🚀 **Stack:** Firebase, React Native con Expo, MySQL y SQL Server.
 - 📖 **Curiosidad:** Me encanta el diseño inspirado en animes, en especial los toques minimalistas.
 
 ---
@@ -21,12 +21,11 @@
 ## 🛠️ Tecnologías que manejo
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 </div>
 
 ---
@@ -35,6 +34,7 @@
 
 - 🛍️ **Mandaditos Kiki**: App para gestionar pedidos con un diseño inspirado en Kiki's Delivery Service.
 - 🐄 **Trazabilidad Ganadera**: Registro y seguimiento de animales con Firebase.
+- 🌟 **Proyecto Redvita**: Sistema para la gestión y visualización de estadísticas relacionadas con proyectos de salud pública. [Ir al repo](https://github.com/aminmarin/proyecto-redvita)
 - 📊 **Control de Asistencia**: Gestión de personal con estadísticas en tiempo real.
 
 ---
