@@ -9,7 +9,7 @@
 
 <div align="center">
  <a href="https://github.com/BrayanMontenegro/BrayanMontenegro.git">
-  <img src="./assets/eve2.jpeg" width="100%" height="auto">
+  <img src="./assets/eve2.jpg" width="auto" height="auto">
 </a>
 </div>
 
