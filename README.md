@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://c.tenor.com/yourGIFURL.gif" alt="Lofi Anime Background" width="100%">
-</div>
-
 
 <h1 align="center">✨ ¡Hola, soy Oreki Houtarou! ✨</h1>
 <h3 align="center">🌌 Desarrollador apasionado | Fan del anime y el código 🍜</h3>
