@@ -41,7 +41,7 @@
 ## 📂 Proyectos Destacados
 
 - 🐄 **Trazabilidad Ganadera**: Proyecto que lleve a Hackaton Nicaragua por primera vez.
-- 🩸 **Proyecto Redvita**: Sistema para la gestión y visualización de estadísticas relacionadas con proyectos de salud pública. [Ir al repo](https://github.com/BrayanMontenegro/ProyectRedvita.git)
+- 🩸 **Proyecto Redvita**: Sistema para la gestión de donantes y visualización de estadísticas relacionadas la donaciones. [Ir al repo](https://github.com/BrayanMontenegro/ProyectRedvita.git)
 - 📊 **Protectos personales**: Gestión de cosas que uso en general para aprender.
 
 ---
