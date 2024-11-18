@@ -1,5 +1,5 @@
 <a href="https://github.com/BrayanMontenegro/BrayanMontenegro.git">
-  <img src="./assets/eve2.jpg" width="100%"  alt="Lofi Anime Background">
+  <img src="./assets/eve2.jpg" width="50%"  alt="Lofi Anime Background">
 </a>
 
 <h1 align="center">✨ ¡Hola, soy Oreki Houtarou! ✨</h1>
