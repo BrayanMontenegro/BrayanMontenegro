@@ -2,7 +2,7 @@
   <img src="./assets/evew.jpeg" width="100%" height="auto">
 </a>
 
-<h1 align="center">✨ ¡Hola, soy Oreki Houtarou! ✨</h1>
+<h1 align="center">✨ ¡Hola, soy Oreki Hotaru! ✨</h1>
 <h3 align="center">🌌 Desarrollador | Fan del anime y el código 🍜</h3>
 
 ---
