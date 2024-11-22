@@ -66,5 +66,7 @@
 ---
 <div align="center">
   <h3>✨ ¡Gracias por visitar mi perfil! ✨</h3>
-  <img src="[https://c.tenor.com/U0lrdg9vJ7gAAAAC/cute-cat.gif](https://tenor.com/es-US/view/mothers-day-happy-mothers-day-fathers-day-happy-fathers-day-need-sleep-gif-2647389020146806485)" alt="Cute Cat" width="150">
+   <a href="https://github.com/BrayanMontenegro/BrayanMontenegro.git">
+  <img src="./assets/mothers-day-happy-mothers-day.git" width="100%" height="auto">
+</a>
 </div>
