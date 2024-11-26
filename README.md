@@ -67,6 +67,6 @@
 <div align="center">
   <h3>✨ ¡Gracias por visitar mi perfil! ✨</h3>
    <a href="https://github.com/BrayanMontenegro/BrayanMontenegro.git">
-  <img src="./assets/mothers-day-happy-mothers-day.gif" width="100%" height="auto">
+  <img src="./assets/mothers-day-happy-mothers-day.gif" width="200" >
 </a>
 </div>
